@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Terry Mochire
-- 👀 I’m interested in Health Technology(Machine Learning and AI). I am a well-versed Android Engineer writing both Kotlin and Java.
-- 🌱 I’m currently learning back end web developmnet. 
-- 💞️ I’m looking to collaborate on any projects that involve health tech.
+- 👩🏾‍💻👩🏾‍💻 I am a well-versed Native Android and Back-end Engineer, working with a variety of programming languages, technologies and frameworks such as Java, Kotlin, Flask, Django, NodeJs, Spring, and SQL-Databases. I'm also familiar with DevOps and Continuous Integration tools such as Jenkins and Ansible. I'm comfortable with both Agile and Waterfall methodologies, and have worked with both small and large teams. 
+- 🌱 I’m curious about the health-tech and looking to collaborate on any projects that involve health tech, or my stack above.
 - 📫 How to reach me 
   * [LinkedIn](https://www.linkedin.com/in/terry-mochire/)
   * [Email](terrybmochire@gmail.com)
