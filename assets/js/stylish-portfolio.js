@@ -75,7 +75,7 @@
   if(CV){
     CV.addEventListener('click', function(e){
       e.preventDefault();
-      window.open("https://drive.google.com/file/d/1Whc-aXOOmHEd9xMv83fOcwR0AqXV9dGd/view?usp=sharing");
+      window.open("https://drive.google.com/file/d/19MFQyzkGwuIUr99yLlEOFU4hcWN-kUHW/view?usp=sharing");
     });
   }
 
